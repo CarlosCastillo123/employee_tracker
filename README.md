@@ -2,8 +2,5 @@
 ** This project uses node and inquirer to keeptrack of an employee database.
 ## instilation
 ** npm install express, mysql2, inquirer and console.table
-## bugs
-** Still working on project
-** View employees, department, and role work.
-** Testing other features
- 
+## Video
+https://drive.google.com/file/d/1iIeEGQh-XHjEkEEld5R7MXS4KEz0dFwm/view?usp=sharing
